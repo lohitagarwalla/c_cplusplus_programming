@@ -1,0 +1,1 @@
+../build-Debug/factorial/Factorial.cpp.o ../build-Debug/factorial/main.cpp.o   
