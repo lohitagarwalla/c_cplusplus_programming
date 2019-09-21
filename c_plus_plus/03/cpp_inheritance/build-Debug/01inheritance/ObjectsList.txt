@@ -1,0 +1,1 @@
+../build-Debug/01inheritance/main.cpp.o ../build-Debug/01inheritance/Account.cpp.o ../build-Debug/01inheritance/Saving_acc.cpp.o   

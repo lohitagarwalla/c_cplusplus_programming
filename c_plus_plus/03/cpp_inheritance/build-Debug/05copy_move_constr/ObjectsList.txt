@@ -1,0 +1,1 @@
+../build-Debug/05copy_move_constr/Derived.cpp.o ../build-Debug/05copy_move_constr/Base.cpp.o ../build-Debug/05copy_move_constr/main.cpp.o   

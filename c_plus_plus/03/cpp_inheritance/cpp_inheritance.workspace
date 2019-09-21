@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cpp_inheritance" Database="" Version="10.0.0">
+  <Project Name="01inheritance" Path="01inheritance/01inheritance.project" Active="No"/>
+  <Project Name="02inheritance" Path="02inheritance/02inheritance.project" Active="No"/>
+  <Project Name="03constructor_and_destructor" Path="03constructor_and_destructor/03constructor_and_destructor.project" Active="No"/>
+  <Project Name="04constructor_destructor" Path="04constructor_destructor/04constructor_destructor.project" Active="No"/>
+  <Project Name="05copy_move_constr" Path="05copy_move_constr/05copy_move_constr.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="01inheritance" ConfigName="Debug"/>
+      <Project Name="02inheritance" ConfigName="Debug"/>
+      <Project Name="03constructor_and_destructor" ConfigName="Debug"/>
+      <Project Name="04constructor_destructor" ConfigName="Debug"/>
+      <Project Name="05copy_move_constr" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="01inheritance" ConfigName="Release"/>
+      <Project Name="02inheritance" ConfigName="Release"/>
+      <Project Name="03constructor_and_destructor" ConfigName="Release"/>
+      <Project Name="04constructor_destructor" ConfigName="Release"/>
+      <Project Name="05copy_move_constr" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
