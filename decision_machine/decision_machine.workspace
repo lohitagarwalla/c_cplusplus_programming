@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="decision_machine" Database="" Version="10.0.0">
   <Project Name="01machine" Path="machine/machine.project" Active="No"/>
-  <Project Name="03sintheta" Path="sintheta/sintheta.project" Active="Yes"/>
+  <Project Name="03sintheta" Path="sintheta/sintheta.project" Active="No"/>
   <Project Name="02factorial" Path="factorial/factorial.project" Active="No"/>
+  <Project Name="04dynamically_creatin_objects" Path="dynamicallly_creating_objects/dynamicallly_creating_objects.project" Active="No"/>
+  <Project Name="05student_attendance" Path="01students_attendance/01students_attendance.project" Active="No"/>
+  <Project Name="06product_record" Path="06product_record/06product_record.project" Active="No"/>
+  <Project Name="07tax_calculation" Path="07tax_calculation/07tax_calculation.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="01machine" ConfigName="Debug"/>
       <Project Name="03sintheta" ConfigName="Debug"/>
       <Project Name="02factorial" ConfigName="Debug"/>
+      <Project Name="04dynamically_creatin_objects" ConfigName="Debug"/>
+      <Project Name="05student_attendance" ConfigName="Debug"/>
+      <Project Name="06product_record" ConfigName="Debug"/>
+      <Project Name="07tax_calculation" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="01machine" ConfigName="Release"/>
       <Project Name="03sintheta" ConfigName="Release"/>
       <Project Name="02factorial" ConfigName="Release"/>
+      <Project Name="04dynamically_creatin_objects" ConfigName="Release"/>
+      <Project Name="05student_attendance" ConfigName="Release"/>
+      <Project Name="06product_record" ConfigName="Release"/>
+      <Project Name="07tax_calculation" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

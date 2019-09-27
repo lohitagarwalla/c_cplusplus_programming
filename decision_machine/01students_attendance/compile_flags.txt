@@ -1,0 +1,3 @@
+-IC:\Users\Lohit\Desktop\code\c++\decision_machine\01students_attendance
+-target
+x86_64-pc-windows-gnu

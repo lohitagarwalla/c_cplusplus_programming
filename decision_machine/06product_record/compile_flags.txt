@@ -1,0 +1,3 @@
+-IC:\Users\Lohit\Desktop\code\c++\decision_machine\06product_record
+-target
+x86_64-pc-windows-gnu

@@ -1,0 +1,1 @@
+../build-Debug/dynamicallly_creating_objects/Player.cpp.o ../build-Debug/dynamicallly_creating_objects/main.cpp.o   
