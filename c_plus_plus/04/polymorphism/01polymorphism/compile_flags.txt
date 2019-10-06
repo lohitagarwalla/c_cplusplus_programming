@@ -1,0 +1,3 @@
+-IC:\Users\Lohit\Desktop\code\c++\04\polymorphism\01polymorphism
+-target
+x86_64-pc-windows-gnu
